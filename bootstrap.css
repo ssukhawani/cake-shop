@@ -96,11 +96,13 @@ h1{
 @media (min-width:380px){
     .jumbotron{
         background-position: 50% 50%;
+        height: 680px;
     }
 }
 @media (min-width:1200px) {
     .jumbotron {
        background-position: 40% 60%;
+       height: 650px;
     }
 }
 
