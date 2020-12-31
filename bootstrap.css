@@ -84,13 +84,24 @@ h1{
 
 .jumbotron{
     background-image: url(images/Banner-cake.png);
-    background-position: center;
+    background-position: left;
     background-size: cover;
     background-repeat: no-repeat;
     height: 630px;
     font-family: 'Redressed',
     cursive;
     font-size: 30px;
+}
+
+@media (min-width:380px){
+    .jumbotron{
+        background-position: 50% 50%;
+    }
+}
+@media (min-width:1200px) {
+    .jumbotron {
+       background-position: 40% 60%;
+    }
 }
 
 .jb-btn{
