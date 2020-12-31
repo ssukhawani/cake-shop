@@ -1,0 +1,160 @@
+*{
+    scroll-behavior: smooth;
+    
+}
+
+.fab{
+    font-size: 30px;
+    letter-spacing: 25px;
+}
+
+.com-name{
+    margin-bottom: 20px;
+}
+
+.mb-8{
+margin-bottom: 5rem;
+}
+
+.mt-8{
+    margin-top: 5rem;
+}
+
+.mt-6 {
+    margin-top: 11rem; 
+}
+.mb-6 {
+    margin-bottom: 11rem;
+}
+.mt-7 {
+    margin-top: 20rem;
+}
+
+.mb-7 {
+    margin-bottom: 14rem;
+}
+
+.pt-7{
+    padding-top: 14rem;
+}
+
+.pb-7{
+    padding-bottom: 14rem;
+}
+
+.ps-6{
+    padding-left: 6rem;
+}
+
+.pt-6{
+    padding-top: 11rem;
+}
+
+.pb-6 {
+    padding-bottom: 11rem;
+}
+.ps-sm-6{
+    padding-left: 6rem;
+}
+
+.m-6{
+    margin: 1rem auto;
+}
+
+li{
+    list-style: none;
+}
+
+footer{
+    background-color: black;
+    font-family: 'Montserrat',
+    sans-serif;
+}
+
+.navbar-brand{
+    font-family: 'Redressed',
+    cursive;
+    font-size: 30px;
+}
+
+h1{
+    font-family: 'Redressed',
+    cursive;
+}
+
+.jumbotron{
+    background-image: url(images/Banner-cake.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 630px;
+    font-family: 'Redressed',
+    cursive;
+    font-size: 30px;
+}
+
+.jb-btn{
+    font-size: 25px;
+}
+
+.bg-color{
+    background-color: #fcbf1e;
+}
+
+body{
+    background-color: #fcbf1e;
+}
+
+
+
+.shop-now-card-button button {
+
+    background: #ec0101;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 10px;
+    padding: 5px 8px;
+}
+
+.shop-now-circle {
+    width: 15px;
+    margin-left: 1px;
+    position: relative;
+}
+
+.font1{
+    font-family: 'Redressed',
+    cursive;
+    font-size: 35px;
+}
+
+h5{
+     font-family: 'Redressed',
+     cursive;
+     font-size: 25px;
+}
+
+.card:hover{
+    transform: scale(1.05);
+}
+
+.navbar,
+.dropdown-item {
+    font-family: 'Montserrat',
+    sans-serif;
+}
+/* 
+.lol{
+  background-color: chartreuse;
+}
+
+.lol2 {
+    background-color: blue;
+}
+
+.lol3 {
+    background-color: brown;
+} */
+/* .card{
+    background-color: lawngreen;
+} */
